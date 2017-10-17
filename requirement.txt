@@ -1,0 +1,40 @@
+Requirement details:
+
+Master:
+
+Category
+
+Item
+
+Ingredients
+
+Order: This is the Launch Page
+
+This is a list showing all open orders for the day.
+
+Order #	Table #	Customer Name	Order Amount	Order Summary	Edit
+PG/12/001	Table 1	Manas Patra	560	Biriyani: 2 ; Rice 4 plate; Juce 2 Glass	
+PG/12/002	Table 2				
+ 
+
+Here you can
+
+create new order
+select/edit a record to amend i.e.
+Add
+Pay
+Amend Order (Chose from Open Orders for the Day)
+
+New Order Button
+Add Item to Order
+Take Payments
+
+Payment Mode |  Amount | Reference
+
+New Order
+
+Auto Running Sum Amount
+
+Additional Line With  Service Tax @12.36
+
+Total Sum (including Service Tax)

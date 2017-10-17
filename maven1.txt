@@ -1,0 +1,48 @@
+mvn --version
+
+
+Apache Maven 3.0.5 (r01de14724cdef164cd33c7c8c2fe155faf9602da;2013-02-19 14:51:28+0100)
+Maven home: D:\apache-maven-3.0.5\bin\..
+Java version: 1.6.0_25, vendor: Sun Microsystems Inc.
+Java home: C:\Program Files\Java\jdk1.6.0_25\jre
+Default locale: nl_NL, platform encoding: Cp1252
+OS name: "windows 7", version: "6.1", arch: "amd64", family: "windows"
+
+
+
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+cd my-app
+
+
+
+
+my-app
+|-- pom.xml
+`-- src
+    |-- main
+    |   `-- java
+    |       `-- com
+    |           `-- mycompany
+    |               `-- app
+    |                   `-- App.java
+    `-- test
+        `-- java
+            `-- com
+                `-- mycompany
+                    `-- app
+                        `-- AppTest.java
+
+
+
+
+output:
+ ...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESSFUL
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2 seconds
+[INFO] Finished at: Thu oct 16 21:34:52 CEST 2017
+[INFO] Final Memory: 3M/6M
+[INFO] -----------------------------------------------------------------------

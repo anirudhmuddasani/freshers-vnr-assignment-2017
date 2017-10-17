@@ -1,0 +1,11 @@
+mvn [options] [<goal(s)>] [<phase(s)>]
+
+mvn -h
+
+mvn package
+
+mvn clean deploy site-deploy
+
+mvn clean install
+
+mvn archetype:generate

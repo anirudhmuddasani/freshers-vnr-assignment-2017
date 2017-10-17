@@ -1,0 +1,23 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+
+
+Connection con = DriverManager.getConnection( host, username, password );
+
+
+String host = "jdbc:derby://localhost:1527/Employees";
+
+/*The first part, jdbc:derby://localhost, is the database type and server that you're using. The 1527 is the port number. The database is Employees. This can all go in a String variable*/
+
+
+String uName = "Your_Username_Here";
+String uPass= " Your_Password_Here ";
+
+
+try {
+
+}
+catch ( SQLException err ) {
+System.out.println( err.getMessage( ) );
+}

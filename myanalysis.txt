@@ -1,0 +1,24 @@
+hello gud morning to one and all i have done the asaignment in the creating the java code for the restaurant program 
+
+before creating i have few analysis on that now a days every bakery and restaurent are purely depends on the online because of the vast exposure of the restaurents make the customers more. and due to that reason there is a lack of flexibility in the accounting and all other aspects inthe restaurents evary thing on a paper cannot be done so , the software fellow has devolped a code for the restaurent and online web page for that restaurant with the help of that software we can entry the order and send it to the chefs by sitting here itself bye the small program and these program two end 
+
+front end :java 
+
+here we are writing a code to allocate the owner or manager of that restaurant to enter the order details and the payment modes for them .they will just type the order id or the item name in the box given over there but for them there is a java code running behind to recieve the order and calculate price and show it on the screen . from here we can call the sql data base by using simple code to the information about employee handling that table and order prices e.t.c
+
+back end :database(sql)
+
+now we are inserting the data into the databaase using sql launguage . the data we insert like employee details ,details of the table , customer ,order ,price, billing of that customer .we say it is back end because we can recollect these information using java launguage .we can call the functions in the sql like order details and all .
+
+
+steps i have done for creating this project
+
+1. i have call all the library functions that are required for the program
+2. generated a welcome note at the beggining of the software 
+3. created the security that means login credentials to enhance the security of the program by creating the login id and the password for the owner before deployit the the cleints machine
+4.giving the login credentials to the data base server to give private information of the company to be safe and secure here we create login id and password it self in the data base server.
+5.enter the details of the food order and the table details, waiter handling that particular table.
+6.i have also included the billing program for the additional feature to the program
+7.we also included the cryptograph specially for the chef to prepare  the order . i have generated using fifo algoritherm
+8.now after creating the code we need to test and build the code in order to give quality assurance to the client
+in this project we use maven software  	

@@ -1,0 +1,17 @@
+In the above we have some intresting challenges that are to be overcome for the betterment and fullfillment of the project
+
+
+firstly, we have written a welcome code to attract the user to use our software by using a simple . that is whenever he opens the software he can can see a welcome message for a while.
+later on , we have added a security feature for the code to reduce the misuse of the software that may become loss to the company.then, we call the sql connection which is running in the back end . for the establishment of secured connection we use a secure login by creating a login id and the password whcih is stored in the database itself. once the given credentials matches the owner credentials we can access that database for orderplacing and billing
+
+now the important part of the project that is pop-up the screen where he can enter the details of the order which he can cross check in the data base and enters into the database automatically due to the secured connection . we have generated a code for summing the bill and giving the reciept to the customer.
+
+we have also created a program which is sent to the chef for cooking based on the fifo algoritherm . he views the orders according to the token generated and he prepares the food according to that. and passes it to the waiter for serving .
+
+
+and the nightmare stage of any project is testing and building the code . here , we use maven code where we can test, build,deployand do anything with the maven 
+as i am familiar with linux and devops i have done this maven in linux operating system . we have generated simple command to test the code. 
+
+
+
+this is the process i have taken care of while generating the code from my brain. 
