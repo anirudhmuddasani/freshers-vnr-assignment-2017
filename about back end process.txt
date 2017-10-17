@@ -1,0 +1,14 @@
+----- Back end process for restaurant program
+
+we need to store the information the database. the particular information about the employees working in that, item prices and customer information like billing information etc. here we need a platform between the user and system to enter the details with ease.so, we are choosing sql launguage to enter and retreive the details from the database.
+
+here we need a database that can be easily called through a java function.
+
+
+we need to insert the data of the each and every details and the employee id should be unique in order to avoid the confusion in executing code
+and have to specific to select the primary key so that we can join the tables so that we can retrive the data from the database
+
+ 
+
+
+
